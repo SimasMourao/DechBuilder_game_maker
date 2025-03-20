@@ -1,0 +1,55 @@
+#region //ICONES
+	enum ICONE{
+		//DEVE-SE SEMPRE ATRIBUIR UM NÚMERO A ESSAS CONSTANTES, PARA QUE 
+		//OS NOMES CORRESPONDAM AOS NUMEROS DOS SPRITES DO SPR_ICONE
+		
+		//COLOCAR CONSTANTES EM LETRA MAIUSCULA, É CONVENÇÃO
+		MACHADO_SIMPLES,
+		MACHADO_GRANDE,
+		LIVRO_VERMELHO,
+		LIVRO_VERDE,
+		LIVRO_ROXO,
+		LIVRO_AZUL,
+		LIVRO_AMARELO,
+		ARCO_SIMPLES,
+		ARCO_GRANDE,
+		RUBI,
+		SAFIRA,
+		ESMERALDA,
+		OURO,
+		AMETISTA,
+		POCAO_VERMELHA,
+		POCAO_AZUL,
+		POCAO_VERDE,
+		POCAO_AMARELA,
+		POCAO_ROXA,
+		VARINHA_VERMELHA,
+		VARINHA_ROXA, 
+		PERGAMINHO_VERMELHO,
+		PERGAMINHO_VERDE,
+		PERGAMINHO_ROXO,
+		PERGAMINHO_AMARELO,
+		PERGAMINHO_AZUL,
+		ESCUDO_ROXO,
+		ESCUDO_VERDE,
+		ESCUDO_VERMELHO,
+		ESCUDO_AMARELO,
+		ESCUDO_AZUL,
+		CAJADO_RETO,
+		CAJADO_RUBI,
+		CAJADO_FOLHA,
+		ESPADA_BRONZE,
+		ESPADA_ACO
+	}
+#endregion
+
+
+//CRIANDO A ESTRUTURA BÁSICA DA CARTA
+function criar_carta(_tipo = 0 ,_nome = "", _img_nome = 0, _img_desenho = 0, _espaco_icone = 0, _icone = 0) constructor{
+	tipo = _tipo;
+	nome = _nome; 
+	img_desenho = _img_desenho;
+	img_desenho = _img_desenho;
+	espaco_icone = _espaco_icone;
+	icone = _icone;
+}

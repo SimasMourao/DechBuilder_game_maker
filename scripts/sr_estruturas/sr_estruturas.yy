@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sr_estruturas",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sr_estruturas",
+  "parent":{
+    "name":"Script",
+    "path":"folders/Script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

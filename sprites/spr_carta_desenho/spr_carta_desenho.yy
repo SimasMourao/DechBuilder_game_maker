@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_carta_quadro",
+  "%Name":"spr_carta_desenho",
   "bboxMode":0,
   "bbox_bottom":71,
   "bbox_left":0,
@@ -23,7 +23,7 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"b8cb4bae-ab56-4e6f-a205-1c0a60d78cf0","blendMode":0,"displayName":"default","isLocked":false,"name":"b8cb4bae-ab56-4e6f-a205-1c0a60d78cf0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_carta_quadro",
+  "name":"spr_carta_desenho",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -35,7 +35,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_carta_quadro",
+    "%Name":"spr_carta_desenho",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -59,7 +59,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_carta_quadro",
+    "name":"spr_carta_desenho",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -71,13 +71,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"12cda7e8-767d-4b6c-bec2-31e6336acdaf","path":"sprites/spr_carta_quadro/spr_carta_quadro.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"12cda7e8-767d-4b6c-bec2-31e6336acdaf","path":"sprites/spr_carta_desenho/spr_carta_desenho.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"3531218a-b71b-4a33-b2d8-4e716453d008","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0949aa20-bc07-4791-91b8-d43a9490aa79","path":"sprites/spr_carta_quadro/spr_carta_quadro.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0949aa20-bc07-4791-91b8-d43a9490aa79","path":"sprites/spr_carta_desenho/spr_carta_desenho.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"17b67db8-d957-45bd-af96-0329d6a61710","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9a5982bc-133d-4957-b9aa-5bd55c1065ed","path":"sprites/spr_carta_quadro/spr_carta_quadro.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9a5982bc-133d-4957-b9aa-5bd55c1065ed","path":"sprites/spr_carta_desenho/spr_carta_desenho.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"05bd0425-c904-4e10-a7f3-e37dc8f1f725","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
