@@ -39,16 +39,22 @@
 		CAJADO_RUBI,
 		CAJADO_FOLHA,
 		ESPADA_BRONZE,
-		ESPADA_ACO
+		ESPADA_ACO,
+		TOTAL
 	}
 #endregion
 
+//ESTRUTURA DO BARALHO
+global.baralho = [];
+
+//ESTRUTURA DO BARALHO
+global.mao = [];
 
 //CRIANDO A ESTRUTURA BÁSICA DA CARTA
 function criar_carta(_tipo = 0 ,_nome = "", _img_nome = 0, _img_desenho = 0, _espaco_icone = 0, _icone = 0) constructor{
 	tipo = _tipo;
 	nome = _nome; 
-	img_desenho = _img_desenho;
+	img_nome = _img_nome;
 	img_desenho = _img_desenho;
 	espaco_icone = _espaco_icone;
 	icone = _icone;

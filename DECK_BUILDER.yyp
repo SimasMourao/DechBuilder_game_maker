@@ -10,9 +10,10 @@
   },
   "defaultScriptType":1,
   "Folders":[
-    {"$GMFolder":"","%Name":"Script","folderPath":"folders/Script.yy","name":"Script","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Font","folderPath":"folders/Font.yy","name":"Font","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Script","folderPath":"folders/Script.yy","name":"Script","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[],
@@ -23,7 +24,9 @@
   },
   "name":"DECK_BUILDER",
   "resources":[
+    {"id":{"name":"fnt_pixel_nome","path":"fonts/fnt_pixel_nome/fnt_pixel_nome.yy",},},
     {"id":{"name":"obj_carta","path":"objects/obj_carta/obj_carta.yy",},},
+    {"id":{"name":"obj_jogador","path":"objects/obj_jogador/obj_jogador.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"scr_funcoes","path":"scripts/scr_funcoes/scr_funcoes.yy",},},
     {"id":{"name":"sr_estruturas","path":"scripts/sr_estruturas/sr_estruturas.yy",},},

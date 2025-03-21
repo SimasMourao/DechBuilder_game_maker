@@ -1,4 +1,12 @@
 image_speed = 0;
 
+escala = 0;
+
 //Criando uma carta
-carta = new criar_carta(1, "URNA", 1, 0, 2, 7); 
+carta = global.mao[0]; 
+
+img = 0;
+
+mouse_sobre = false;
+
+
